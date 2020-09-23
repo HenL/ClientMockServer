@@ -283,5 +283,10 @@
     "wins": 179,
     "team_is_full": true
   }
+},
+
+"get_fb_is_connected": {
+  "success": true,
+  "is_connected": true
 }
  }
