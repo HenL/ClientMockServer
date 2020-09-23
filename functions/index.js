@@ -46,10 +46,6 @@ app.get('/get_member_team_state', (req, res) => {
   return res.status(200).send(dbJson["get_member_team_state"]);
 });
 
-app.get('/get_fb_is_connected', (req, res) => {
-  return res.status(200).send(dbJson["get_fb_is_connected"]);
-});
-
 
 
 exports.app = functions.https.onRequest(app);
