@@ -25,7 +25,7 @@
   "get_team_suggested_members":
   {
     "success": true,
-    "members": [
+    "suggested_members": [
       {
         "id": "bcd13d03ad95d7100590047152eb0878",
         "name": "Suzy Geets",
